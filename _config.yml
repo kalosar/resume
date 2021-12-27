@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Marius Andresen (invalid, under development)
-title: Developer
+name: Marius Andresen (WIP)
+title: Fullstack Devoloper
 email: marius.e.g.a@gmail.com
 website: https://kalosar.github.io/resume
 
@@ -75,7 +75,7 @@ content:
     content:
       - layout: left
         title: OPEN
-        link: openpos.tech
+        link: https://www.openpos.tech/en/
         # link_text: boringcompany.com
         sub_title: Developer
         caption: Octopber 2018 - Present
