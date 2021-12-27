@@ -100,9 +100,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Started on path towards masters, taking individual subjects at the university during the given timeframe. Some mentioned subjects; Refer to some subjects here ...
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: University of Oslo
         caption: 2013 - 2016
