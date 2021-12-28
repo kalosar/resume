@@ -88,7 +88,7 @@ content:
 
           I also worked as a consultant to develop custom reports for our customers, as well as third-line support.
 
-          <b>Technologies:</b> .Net, C#, SQL, Javascript, Typescript, Vue, HTML, CSS and PowerShell
+          <mark>.Net</mark> <mark>C#</mark> <mark>SQL</mark> <mark>Javascript</mark> <mark>Typescript</mark> <mark>Vue</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>PowerShell</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
