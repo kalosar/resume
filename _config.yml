@@ -48,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/myAvatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Marius and I am a fullstack developer. I am a goal orientated, steadfast and passionate developer who enjoys challenging myself at all angles. I thrive working in a team with common milestones, but I am not afraid to take the initiative and do what needs to be done on my own. Throughout my career and hard-work, I have devoted time to learn new skills and abilities to aid me in both my personal and work projects. I have experience within payment solutions and web technologies, problem solving day to day challenges and being a valuable member of the team.
+  Hi, my name's Marius and I am a fullstack developer. I am a goal orientated, steadfast and passionate developer who enjoys challenging myself at all angles. I thrive working in a team with common milestones, but I am not afraid to take the initiative and do what needs to be done on my own.
+
+  Throughout my career and hard-work, I have devoted time to learn new skills and abilities to aid me in both my personal and work projects. I have experience within payment solutions and web technologies, problem solving day to day challenges and being a valuable member of the team.
 
 content:
   # - title: Projects # Title for the section
@@ -96,7 +98,7 @@ content:
         quote: >
           Established in 1811, UiO is the oldest higher education institution in Norway, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the Nordic countries.
         description: | # this will include new lines to allow paragraphs
-          Started on a path towards masters degree, by taking individual subjects at the university during the given timeframe. Before I managed to start my master thessis I started in a fulltime job as a developer.
+          Started on a path towards masters degree, by taking individual subjects at the university during the given timeframe. Before I managed to start my master thesis I started in a fulltime job as a developer.
 
       - layout: left
         title: University of Oslo
