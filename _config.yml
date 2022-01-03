@@ -82,13 +82,9 @@ content:
         quote: >
           Innovating the point of sale experience
         description: | # this will include new lines to allow paragraphs
-          To date, I have been working with Point of Sale Products across Open's Portfolio. Within Management and Q&A, I created, prioritized, and reproduced issues with an external team. We communicated daily to oversee our work.
+          To date, I have been working across OPEN’s product portfolio. Reaching from the Point of Sale (PoS) products, integrations, inhouse tooling, consultant tasks and Q&A. As an inhouse developer the roles and projects are diverse and have changed many times during my time in the company. In the beginning I would work tightly with an external developer team, managing tasks, priorities and Q&A before release to customers. Later I have moved more into a pure developer role focusing on integrations, inhouse tooling and third line support. Now I’m a part of our frontend team focusing on our web projects, and occasionally helping the backend team.
 
-          Integrations focused on integrating Wolt with Open One System by creating a worker service that communicates with both Wold and Open API. Upgrading and maintaining the integration with Vipps was another part of integrations.
-
-          I also worked as a consultant to develop custom reports for our customers, as well as third-line support.
-
-          <mark>.Net</mark> <mark>C#</mark> <mark>SQL</mark> <mark>Vue</mark> <mark>Javascript</mark> <mark>Typescript</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwind</mark> <mark>PowerShell</mark>
+          <mark>.Net</mark> <mark>C#</mark> <mark>SQL</mark> <mark>Vue</mark> <mark>JavaScript</mark> <mark>Typescript</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwind</mark> <mark>PowerShell</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
