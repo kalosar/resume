@@ -31,9 +31,10 @@ linkedin_username: marius-andresen
 
 # Additional icon links
 additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+  - title: PDF
+    icon: fas fa-file-pdf
+    url: https://1drv.ms/b/s!AnSLs64frgwDiGj7YWLrAzbPMuVh?e=lpMbTY
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/myAvatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Marius and I am a fullstack developer. I am a goal orientated, steadfast and passionate developer who enjoys challenging myself at all angles. I thrive working in a team with common milestones, but I am not afraid to take the initiative and do what needs to be done on my own.
+  Hi, my name's Marius and I am a Full Stack Developer. I am a goal orientated, steadfast and passionate developer who enjoys challenging myself at all angles. I thrive working in a team with common milestones, but I am not afraid to take the initiative and do what needs to be done on my own.
 
   Throughout my career and hard-work, I have devoted time to learn new skills and abilities to aid me in both my personal and work projects. I have experience within payment solutions and web technologies, problem solving day to day challenges and being a valuable member of the team.
 
@@ -86,7 +87,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           To date, I have been working across OPEN's product portfolio. Reaching from the Point-of-Sale products, integrations, inhouse tooling, consultant tasks and Q&A. As an inhouse developer the roles and projects are diverse and have changed many times during my time in the company. In the beginning I would work tightly with an external developer team, managing tasks, priorities and Q&A before release to customers. Later I have moved more into a pure developer role focusing on integrations, inhouse tooling and third line support. Now I am a part of our frontend team focusing on our web projects, and occasionally helping the backend team.
 
-          <mark>.Net</mark> <mark>C#</mark> <mark>SQL</mark> <mark>Vue</mark> <mark>JavaScript</mark> <mark>Typescript</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwind</mark> <mark>PowerShell</mark>
+          <mark>.Net</mark> <mark>C#</mark> <mark>SQL</mark> <mark>Vue</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwind</mark> <mark>PowerShell</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
