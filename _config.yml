@@ -30,10 +30,10 @@ linkedin_username: marius-andresen
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-  - title: PDF
-    icon: fas fa-file-pdf
-    url: https://1drv.ms/b/s!AnSLs64frgwDiGj7YWLrAzbPMuVh?e=lpMbTY
+# additional_links:
+#   - title: PDF
+#     icon: fas fa-file-pdf
+#     url: https://1drv.ms/b/s!AnSLs64frgwDiGj7YWLrAzbPMuVh?e=lpMbTY
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
