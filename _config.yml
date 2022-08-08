@@ -47,7 +47,7 @@ linkedin_username: marius-andresen
 
 # About Section
 # about_title: About Me
-about_profile_image: images/myAvatar.png
+about_profile_image: images/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Marius and I am a Full Stack Developer. I am a goal orientated, steadfast and passionate developer who enjoys challenging myself at all angles. I thrive working in a team with common milestones, but I am not afraid to take the initiative and do what needs to be done on my own.
 
