@@ -76,12 +76,23 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: left
+        title: Sopra Steria
+        link: https://www.soprasteria.no/
+        # link_text: boringcompany.com
+        sub_title: Senior Software Engineer
+        caption: Nay 2022 - Present 
+        #quote: 
+        description: | # this will include new lines to allow paragraphs
+          Norges ledende konsulentselskap innen digitalisering.
+          <mark>Jave</mark> <mark>Kotlin</mark> <mark>Kafka</mark> <mark>SQL</mark>
+          
       - layout: left
         title: OPEN
         link: https://www.openpos.tech/en/
         # link_text: boringcompany.com
         sub_title: Developer
-        caption: Octopber 2018 - Present
+        caption: October 2018 - April 2022
         quote: >
           Innovating the point of sale experience
         description: | # this will include new lines to allow paragraphs
